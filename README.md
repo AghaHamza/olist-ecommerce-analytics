@@ -43,9 +43,7 @@ python 03_build_dashboard.py         # outputs/dashboard.html (open in browser)
 ## Key findings
 
 **1. Late delivery is strongly associated with low review scores.**
-Orders delivered on time average 4.29 stars, versus 1.70 for orders 8+ days late. 79% of reviews on
-the latest orders are 1–2 stars, compared with 9% for on-time orders. Only 6.7% of delivered orders
-arrive after the estimated date, so this looks like a targeted problem rather than a systemic one.
+Orders delivered on time average 4.29 stars, versus 1.70 for orders 8+ days late. 79% of reviews on orders delivered 8+ days late are 1–2 stars, compared with 9% for on-time orders. Only 6.7% of delivered orders arrive after the estimated date, but those orders account for a disproportionate share of poor reviews.
 
 ![Delivery vs reviews](outputs/charts/3_delivery_vs_review.png)
 
