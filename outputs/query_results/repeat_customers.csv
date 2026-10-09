@@ -1,0 +1,4 @@
+segment,customers,pct_customers,revenue,pct_revenue
+1 order,90557,97.0,12493089.36,94.49
+2 orders,2573,2.76,631274.9,4.77
+3+ orders,228,0.24,97133.85,0.73
